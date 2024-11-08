@@ -1,6 +1,8 @@
 import onnx
+import onnxruntime
 
-model = onnx.load('/home/yjam/CLionProjects/ultraFace/weights/face_detection_yunet.onnx')
+
+model = onnx.load('/home/yjam/PycharmProjects/shenneng/weights/fireAndSmoke_yolon_ghost_p2_ema.onnx')
 onnx.checker.check_model(model)  # 验证Onnx模型是否准确
 
 for input_node in model.graph.input:
@@ -10,4 +12,4 @@ for input_node in model.graph.input:
     print(input_node.type.tensor_type.shape)
 
 onnx.checker.check_model(model)
-onnx.save(model, '/home/yjam/CLionProjects/ultraFace/weights/new_yunet.onnx')
+onnx.save(model, '/home/yjam/PycharmProjects/shenneng/weights/fireAndSmoke_yolon_ghost_p2_ema.onnx')
