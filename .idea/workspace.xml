@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc27b627-76dd-4c1d-b6b0-b31ef7e6d419" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ultralytics/.github/ISSUE_TEMPLATE/bug-report.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/.github/ISSUE_TEMPLATE/config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/.github/ISSUE_TEMPLATE/feature-request.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/.github/ISSUE_TEMPLATE/question.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/.github/dependabot.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/.github/workflows/ci.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/.github/workflows/cla.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/.github/workflows/codeql.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/.github/workflows/docker.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/.github/workflows/docs.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/.github/workflows/format.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/.github/workflows/greetings.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/.github/workflows/links.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/.github/workflows/merge-main-into-prs.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/.github/workflows/publish.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/.github/workflows/stale.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/CITATION.cff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/ultralytics/nn/modules/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ultralytics/ultralytics/nn/modules/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/ultralytics/nn/modules/conv.py" beforeDir="false" afterPath="$PROJECT_DIR$/ultralytics/ultralytics/nn/modules/conv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/ultralytics/nn/tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/ultralytics/ultralytics/nn/tasks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/ultralytics/utils/loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/ultralytics/ultralytics/utils/loss.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ultralytics/ultralytics/utils/metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/ultralytics/ultralytics/utils/metrics.py" afterDir="false" />
-    </list>
+    <list default="true" id="dc27b627-76dd-4c1d-b6b0-b31ef7e6d419" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -269,6 +244,7 @@
       <workItem from="1730958433989" duration="88000" />
       <workItem from="1730972595445" duration="444000" />
       <workItem from="1730973136079" duration="543000" />
+      <workItem from="1731027150411" duration="986000" />
     </task>
     <servers />
   </component>
