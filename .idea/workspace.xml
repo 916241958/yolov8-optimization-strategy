@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc27b627-76dd-4c1d-b6b0-b31ef7e6d419" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ultralytics/.github/ISSUE_TEMPLATE/bug-report.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/.github/ISSUE_TEMPLATE/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/.github/ISSUE_TEMPLATE/feature-request.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/.github/ISSUE_TEMPLATE/question.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/.github/dependabot.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/.github/workflows/ci.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/.github/workflows/cla.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/.github/workflows/codeql.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/.github/workflows/docker.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/.github/workflows/docs.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/.github/workflows/format.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/.github/workflows/greetings.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/.github/workflows/links.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/.github/workflows/merge-main-into-prs.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/.github/workflows/publish.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/.github/workflows/stale.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/CITATION.cff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/ultralytics/nn/modules/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ultralytics/ultralytics/nn/modules/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/ultralytics/nn/modules/conv.py" beforeDir="false" afterPath="$PROJECT_DIR$/ultralytics/ultralytics/nn/modules/conv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/ultralytics/nn/tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/ultralytics/ultralytics/nn/tasks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/ultralytics/utils/loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/ultralytics/ultralytics/utils/loss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ultralytics/ultralytics/utils/metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/ultralytics/ultralytics/utils/metrics.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ultralytics" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/ultralytics/ultralytics" />
+      </set>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="fb1e6c00-a2e7-4665-ba99-e202efa34e19" />
+  <component name="ProjectId" id="2lAu21LMjQLyALTHiJ1W1CvJ8Wz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/桌面/rknn3588-yolov8" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/MobileVitV8" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lego" />
+      <recent name="$PROJECT_DIR$/MobileVitV8" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="export_onnx" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="v8改进" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/export_onnx.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lego" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="v8改进" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lego/lego.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sketch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="v8改进" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lego" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lego/sketch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="v8改进" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ultralytics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ultralytics/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testCanny" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="v8改进" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lego" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lego/testCanny.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.export_onnx" />
+        <item itemvalue="Python.lego" />
+        <item itemvalue="Python.sketch" />
+        <item itemvalue="Python.testCanny" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc27b627-76dd-4c1d-b6b0-b31ef7e6d419" name="Default Changelist" comment="" />
+      <created>1724634990654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724634990654</updated>
+      <workItem from="1724634992589" duration="13571000" />
+      <workItem from="1724656407369" duration="4831000" />
+      <workItem from="1724805697815" duration="689000" />
+      <workItem from="1724822887530" duration="2432000" />
+      <workItem from="1724825467923" duration="7504000" />
+      <workItem from="1724834660425" duration="472000" />
+      <workItem from="1724835312958" duration="6000" />
+      <workItem from="1724835602152" duration="195000" />
+      <workItem from="1724836475401" duration="163000" />
+      <workItem from="1724891771609" duration="342000" />
+      <workItem from="1724892675873" duration="403000" />
+      <workItem from="1724898892156" duration="1586000" />
+      <workItem from="1724910730894" duration="2879000" />
+      <workItem from="1724978013650" duration="283000" />
+      <workItem from="1725008967172" duration="671000" />
+      <workItem from="1725065357742" duration="1545000" />
+      <workItem from="1725072870720" duration="1070000" />
+      <workItem from="1725076419079" duration="5808000" />
+      <workItem from="1725237805738" duration="394000" />
+      <workItem from="1725239832097" duration="11831000" />
+      <workItem from="1725262721643" duration="7816000" />
+      <workItem from="1725324204456" duration="2760000" />
+      <workItem from="1725331980411" duration="135000" />
+      <workItem from="1725332320427" duration="501000" />
+      <workItem from="1725333632417" duration="1337000" />
+      <workItem from="1725344392345" duration="818000" />
+      <workItem from="1727333835666" duration="530000" />
+      <workItem from="1727341478953" duration="250000" />
+      <workItem from="1727408073540" duration="257000" />
+      <workItem from="1728541206181" duration="598000" />
+      <workItem from="1728610333745" duration="1427000" />
+      <workItem from="1728612558695" duration="2209000" />
+      <workItem from="1728616116968" duration="41000" />
+      <workItem from="1730945458867" duration="1625000" />
+      <workItem from="1730947400676" duration="1149000" />
+      <workItem from="1730950896531" duration="1073000" />
+      <workItem from="1730958433989" duration="88000" />
+      <workItem from="1730972595445" duration="444000" />
+      <workItem from="1730973136079" duration="543000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1970" y="337" width="701" height="413" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1725264856836">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1970" y="337" width="701" height="413" key="#com.intellij.fileTypes.FileTypeChooser/0.339.1366.691/1366.0.1920.1080@1366.0.1920.1080" timestamp="1725264856836" />
+    <state x="2059" y="286" width="524" height="514" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1724824336291">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2059" y="286" width="524" height="514" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.339.1366.691/1366.0.1920.1080@1366.0.1920.1080" timestamp="1724824336291" />
+    <state x="2109" y="298" width="453" height="491" key="FileChooserDialogImpl" timestamp="1730972686562">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2109" y="298" width="453" height="491" key="FileChooserDialogImpl/0.339.1366.691/1366.0.1920.1080@1366.0.1920.1080" timestamp="1730972686562" />
+    <state width="1866" height="447" key="GridCell.Tab.0.bottom" timestamp="1730958357473">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1866" height="447" key="GridCell.Tab.0.bottom/0.339.1366.691/1366.0.1920.1080@1366.0.1920.1080" timestamp="1730958357473" />
+    <state width="1866" height="447" key="GridCell.Tab.0.center" timestamp="1730958357472">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1866" height="447" key="GridCell.Tab.0.center/0.339.1366.691/1366.0.1920.1080@1366.0.1920.1080" timestamp="1730958357472" />
+    <state width="1866" height="447" key="GridCell.Tab.0.left" timestamp="1730958357472">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1866" height="447" key="GridCell.Tab.0.left/0.339.1366.691/1366.0.1920.1080@1366.0.1920.1080" timestamp="1730958357472" />
+    <state width="1866" height="447" key="GridCell.Tab.0.right" timestamp="1730958357473">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1866" height="447" key="GridCell.Tab.0.right/0.339.1366.691/1366.0.1920.1080@1366.0.1920.1080" timestamp="1730958357473" />
+    <state x="1807" y="175" width="1037" height="737" key="SettingsEditor" timestamp="1730972676459">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1807" y="175" width="1037" height="737" key="SettingsEditor/0.339.1366.691/1366.0.1920.1080@1366.0.1920.1080" timestamp="1730972676459" />
+    <state x="1989" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1725242022301">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1989" y="239" width="672" height="678" key="search.everywhere.popup/0.339.1366.691/1366.0.1920.1080@1366.0.1920.1080" timestamp="1725242022301" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/v8$create_color_image.coverage" NAME="create_color_image Coverage Results" MODIFIED="1725263476780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lego" />
+    <SUITE FILE_PATH="coverage/v8$mobilevit.coverage" NAME="mobilevit Coverage Results" MODIFIED="1724641955018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ultralytics/ultralytics/nn/backbone" />
+    <SUITE FILE_PATH="coverage/v8$modify_color.coverage" NAME="modify_color Coverage Results" MODIFIED="1724833687710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/v8$pixelTest.coverage" NAME="pixelTest Coverage Results" MODIFIED="1725073737836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/v8$export_onnx.coverage" NAME="export_onnx Coverage Results" MODIFIED="1728610424881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/v8$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1724900110040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/v8$test.coverage" NAME="test Coverage Results" MODIFIED="1730951363765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ultralytics" />
+    <SUITE FILE_PATH="coverage/v8$lego.coverage" NAME="lego Coverage Results" MODIFIED="1725327716224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/v8$sketch.coverage" NAME="sketch Coverage Results" MODIFIED="1725326942731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lego" />
+    <SUITE FILE_PATH="coverage/v8$GAM.coverage" NAME="GAM Coverage Results" MODIFIED="1724644063598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ultralytics/ultralytics/nn/attention" />
+    <SUITE FILE_PATH="coverage/v8$testCanny.coverage" NAME="testCanny Coverage Results" MODIFIED="1725268260970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lego" />
+    <SUITE FILE_PATH="coverage/v8$GAM__1_.coverage" NAME="GAM (1) Coverage Results" MODIFIED="1724644679620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GAM" />
+  </component>
+</project>
